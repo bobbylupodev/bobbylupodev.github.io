@@ -2190,14 +2190,14 @@ input, select, textarea {
 		.image.avatar {
 			height: 285px;
 			width: 185px;
-			border-radius: 25%;
-			right: 5.16em
+			border-radius: 10%;
+			right: 4.6em
 		}
 
 			.image.avatar img {
 				height: 285px;
 				width: 185px;
-				border-radius: 25%;
+				border-radius: 10%;
 			}
 
 		.image.main {
